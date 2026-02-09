@@ -2,7 +2,7 @@
 
 This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" tutorial at WebSci 2025.
 
-[TODO] The website is live at https://national-internet-observatory.github.io/beyondapi_websci25
+The website is live at https://national-internet-observatory.github.io/beyondapi_netsci26/
 
 ## Overview
 
